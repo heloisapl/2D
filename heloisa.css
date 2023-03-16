@@ -2,10 +2,15 @@
 { 
 background:color #383d58;
 color:white
-
 }
-.imagem{
-    width: 20%;
+h1 {
+    text-align: center;
+} 
+h2 {
+    background-color: blueviolet;
+}
+.imagem {
+    width: 20px
 }
 .lista{ 
     display: inline-block;
