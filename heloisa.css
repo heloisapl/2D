@@ -46,3 +46,11 @@ width: 35%;
 .curso-titulo{
     color: white
 }
+.rodape{
+    background-color: black;
+    padding: 15px;
+}
+.rodape-imagem{ 
+    width: 25%; 
+    justify-content: center;
+}
