@@ -4,32 +4,34 @@
 }
 .cabecalho
 { 
-background-color: #687A86 ;
+background-color: #687A86;
 color: white;
 display: flex;
 justify-content: space-around;
 
+
 }
-.cabecalho-lista-item
-{
+.cabecalho-lista-item {
+
     display: inline-block;
 margin: 16px;
 font-size: 20px;
-
+font-family: 'Poppins', sans-serif;
 }
 .imagem1
 {
     width: 25%;
-  
 }
 
 .Curso
 {
-background-image: linear-gradient(#687A86,white);
+background-image: linear-gradient( #687A86,rgb(156, 166, 250));
 display: flex;
 justify-content: center;
 align-items: center;
 padding: 40px 0 ;
+font-family: 'Poppins', sans-serif;
+
 }
 
 .curso-conteudo { 
@@ -40,17 +42,35 @@ width: 35%;
 }
 
 .paragrafo{ 
-    font-size: 20px;
-    color: white 
+    font-size: 15px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
 }
 .curso-titulo{
-    color: white
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.areas {
+background-color: #adbfca;
+padding: 40px 0 ;
+}
+.areas-titulo {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.lista-areas{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    padding: 40px 60px ;
 }
 .rodape{
-    background-color: black;
-    padding: 15px;
+   text-align: center;
+    background-color: #687A86;
 }
-.rodape-imagem{ 
-    width: 25%; 
-    justify-content: center;
+.rodape-imagem {
+    width: 200px;
+    padding: 12px 0;
+    width: 10% ;
 }
