@@ -21,6 +21,7 @@ font-family: 'Poppins', sans-serif;
 .imagem1 {
     width: 25%;
 }
+
 background-image: linear-gradient( #687A86,rgb(156, 166, 250));
 display: flex;
 justify-content: center;
@@ -45,6 +46,7 @@ width: 35%;
         text-decoration: none;
         color:var(--preto);
     }
+    
 .paragrafo{ 
     font-size: 15px;
     color: white;
