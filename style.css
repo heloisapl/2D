@@ -37,6 +37,7 @@ width: 35%;
     width: 200px
 }
 
+/*VERSÃO DESKTOP*/
 @media screen and (min-width:1728px){
     .container__link{
         display: flex;
