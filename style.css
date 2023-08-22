@@ -2,8 +2,7 @@
     margin: 0;
     padding: 0;
 }
-.cabecalho
-{ 
+.cabecalho { 
 background-color: #687A86;
 color: white;
 display: flex;
@@ -12,8 +11,7 @@ justify-content: space-around;
 
 }
 .cabecalho-lista-item {
-
-    display: inline-block;
+display: inline-block;
 margin: 16px;
 font-size: 20px;
 font-family: 'Poppins', sans-serif;
@@ -40,12 +38,7 @@ width: 35%;
 
 /*VERSÃO DESKTOP*/
 @media screen and (min-width:1728px){
-    .container__link{
-        display: flex;
-        align-items: center;
-        text-decoration: none;
-        color:var(--preto);
-    }
+   
     
 .paragrafo{ 
     font-size: 15px;
@@ -75,7 +68,8 @@ padding: 40px 0 ;
    text-align: center;
     background-color: #687A86;
 }
-.rodape-imagem {
+.rodape-imagem 
+{
     width: 200px;
     padding: 12px 0;
     width: 10% ;
